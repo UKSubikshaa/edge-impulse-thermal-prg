@@ -1,7 +1,6 @@
 {
   "name": "edge-impulse-thermal-prg",
   "version": "1.0.0",
-  "description": "Custom processing block for Edge Impulse",
   "main": "index.js",
   "dependencies": {
     "edge-impulse-processing-block": "^1.0.0"
