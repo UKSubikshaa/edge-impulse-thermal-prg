@@ -1,4 +1,5 @@
 {
   "type": "processing-block",
-  "language": "python"
+  "language": "python",
+  "entrypoint": "block.py"
 }
