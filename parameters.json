@@ -1,0 +1,5 @@
+{
+  "name": "thermal-preprocessing",
+  "description": "Custom preprocessing for thermal images",
+  "parameters": []
+}
