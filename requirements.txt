@@ -1,7 +1,2 @@
 numpy
 scikit-learn
-pillow
-opencv-pythonnumpy
-scikit-learn
-pillow
-opencv-python
