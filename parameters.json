@@ -1,5 +1,6 @@
 {
-  "name": "thermal-preprocessing",
-  "description": "Custom preprocessing for thermal images",
+  "name": "thermal-prg",
+  "type": "processing",
+  "description": "Thermal processing block",
   "parameters": []
 }
