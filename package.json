@@ -1,7 +1,9 @@
 {
-  "name": "thermal-preprocessing",
+  "name": "edge-impulse-thermal-prg",
   "version": "1.0.0",
-  "description": "Edge Impulse custom processing block",
+  "description": "Custom processing block for Edge Impulse",
   "main": "index.js",
-  "license": "Apache-2.0"
+  "dependencies": {
+    "edge-impulse-processing-block": "^1.0.0"
+  }
 }
