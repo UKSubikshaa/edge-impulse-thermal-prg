@@ -1,0 +1,7 @@
+{
+  "name": "thermal-preprocessing",
+  "version": "1.0.0",
+  "description": "Edge Impulse custom processing block",
+  "main": "index.js",
+  "license": "Apache-2.0"
+}
