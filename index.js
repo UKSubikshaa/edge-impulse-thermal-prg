@@ -1,15 +1,11 @@
-module.exports = async function (data, opts) {
+const { ProcessingBlock } = require('edge-impulse-processing-block');
 
-    let features = [];
-
-    for (let i = 0; i < data.length; i++) {
-
-        let normalized = data[i] / 255;
-
-        features.push(normalized);
+module.exports = new ProcessingBlock({
+    name: 'thermal-prg',
+    description: 'Thermal image processing block',
+    process: async (data, config) => {
+        return {
+            features: data
+        };
     }
-
-    return {
-        features: features
-    };
-};
+});
