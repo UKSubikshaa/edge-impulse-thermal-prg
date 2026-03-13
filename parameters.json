@@ -1,6 +1,6 @@
 {
   "name": "thermal-prg",
   "type": "processing",
-  "description": "Thermal processing block",
+  "description": "Thermal preprocessing block",
   "parameters": []
 }
